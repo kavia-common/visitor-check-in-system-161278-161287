@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/visitor-check-in-system-161278-161287/visitor_form_frontend
+flutter analyze
+

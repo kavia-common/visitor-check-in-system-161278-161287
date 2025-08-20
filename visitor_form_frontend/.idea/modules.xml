@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/visitor_form_frontend.iml" filepath="$PROJECT_DIR$/visitor_form_frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/visitor_form_frontend_android.iml" filepath="$PROJECT_DIR$/android/visitor_form_frontend_android.iml" />
+    </modules>
+  </component>
+</project>
